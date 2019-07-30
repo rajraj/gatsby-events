@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-theme-events",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.13.42",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

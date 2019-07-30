@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby clean && gatsby develop"
+  }
+}
